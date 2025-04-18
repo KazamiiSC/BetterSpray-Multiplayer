@@ -1,0 +1,2 @@
+# BetterSpray-Multiplayer
+Sprays Server
